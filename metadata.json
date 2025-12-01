@@ -1,0 +1,5 @@
+{
+  "name": "SkiaColor Extract",
+  "description": "High-performance client-side color extraction using Skia (CanvasKit) and K-Means clustering to identify dominant and vibrant palettes from images.",
+  "requestFramePermissions": []
+}
